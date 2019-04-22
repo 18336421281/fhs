@@ -1,4 +1,4 @@
-package com.fhs.test;
+package com.fhs.Service;
 
 public class Test2 {
 
